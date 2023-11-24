@@ -37,6 +37,6 @@ task1.logState(); // Clean Cat Litter has not been completed
 task1.markCompleted();
 task1.logState(); // Clean Cat Litter has been completed
 
-task2.logState(); // Clean Cat Litter has not been completed
+task2.logState(); // Do Laundry has not been completed
 task2.markCompleted();
-task2.logState(); // Clean Cat Litter has been completed
+task2.logState(); // Do Laundry has been completed
